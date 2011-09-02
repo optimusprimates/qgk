@@ -5,7 +5,7 @@ version = '0.0'
 
 setup(name='qgk',
       version=version,
-      description="Quest for the Golden Keyboard",
+      description="Quest for the Gilded Keyboard",
       long_description="""\
 """,
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
